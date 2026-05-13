@@ -1,0 +1,3 @@
+Requirements to run:
+
+-Ollama gemma3:4b
