@@ -57,7 +57,7 @@ def text_to_speech(text):
 
     os.system(f"start {OUTPUT_FILE}")  
 
-    while True:
+while True:
     input("talk.")
 
     record_audio()
